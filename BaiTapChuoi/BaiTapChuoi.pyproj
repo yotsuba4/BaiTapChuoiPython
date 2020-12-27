@@ -27,6 +27,9 @@
     <Compile Include="bai2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="bai4.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="BaiTapChuoi.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
